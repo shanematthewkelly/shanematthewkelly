@@ -1,4 +1,3 @@
-<!-- <img align='right' src="https://media.giphy.com/media/LrMKefaWy2jMFfH88g/giphy.gif" width="190"></img> -->
 # Welcome, my name is Shane. 🤓
 
 ```dart
