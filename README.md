@@ -1,16 +1,28 @@
-### Hi there 👋
+<!-- <img align='right' src="https://media.giphy.com/media/LrMKefaWy2jMFfH88g/giphy.gif" width="190"></img> -->
+# Welcome, my name is Shane. 🤓
 
-<!--
-**shanematthewkelly/shanematthewkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```dart
+void main() {
+  var profile = new MyProfile();
+  profile.printResult();
+}
 
-Here are some ideas to get you started:
+class MyProfile {
+  var languages = ['Dart', 'JavaScript', 'Java', 'PHP', 'CSS', 'HTML'];
+  var techs = ['React', 'Flutter', 'Android', 'Node', 'Express', 'Vue', 'Laravel', 'WordPress', 'MySQL', 'MongoDB'];
+  
+  printResult() {
+    print("I currently like programming in: " + languages[0] + " using frameworks such as: " + techs[1]);
+  }
+}
+```
+##
+## 🗂️ Highlight Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/shanematthewkelly/Bankify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanematthewkelly&repo=Bankify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bankify" />
+</a>
+
+<a href="https://github.com/shanematthewkelly/Newsify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanematthewkelly&repo=Newsify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Newsify" />
+</a>
