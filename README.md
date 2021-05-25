@@ -12,7 +12,7 @@ class MyProfile {
   var techs = ['React', 'Flutter', 'Android', 'Node', 'Express', 'Vue', 'Laravel', 'WordPress', 'MySQL', 'MongoDB'];
   
   printResult() {
-    print("I currently like programming in: " + languages[0] + " using frameworks such as: " + techs[1]);
+    print("I currently like programming in " + languages[0] + " using frameworks such as: " + techs[1]);
   }
 }
 ```
