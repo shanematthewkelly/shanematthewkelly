@@ -1,4 +1,4 @@
-# Welcome, my name is Shane. ✌️👨‍🎓
+# Welcome, my name is Shane. 👨‍🎓
 <h4>
   
 ```dart
