@@ -1,4 +1,4 @@
-# Welcome, my name is Shane. 👨‍🎓
+# Welcome, my name is Shane.🎓
 <h4>
   
 ```dart
@@ -26,6 +26,6 @@ class MyProfile {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanematthewkelly&repo=Bankify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bankify" />
 </a>
 
-<a href="https://github.com/shanematthewkelly/Newsify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanematthewkelly&repo=Newsify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Newsify" />
+<a href="https://github.com/shanematthewkelly/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanematthewkelly&repo=Portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
 </a>
